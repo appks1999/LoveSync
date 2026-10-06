@@ -14,3 +14,7 @@ val BackgroundStart = Color(0xFFFDFBFF)
 val BackgroundEnd = Color(0xFFF3E5F5)
 val TitleColor = Color(0xFF5C59BB)
 val SubtitleColor = Color(0xFF8E8E8E)
+
+// 一人用診断の新規デザインテーマ用カラーコード
+val SoloBackground = Color(0xFFF8F5F0) // 暖かいナチュラルオフホワイト
+val SoloTextColor = Color(0xFF3A3533)   // 濃いチャコールエスプレッソ
